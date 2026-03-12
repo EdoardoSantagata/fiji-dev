@@ -13,32 +13,32 @@ export default function Home() {
           with poverty and vulnerability data to prioritize investments.
         </p>
 
-        <div className="grid md:grid-cols-2 gap-6">
-          <Link
-            href="/map"
-            className="block p-6 bg-slate-700/50 rounded-xl border border-slate-600 hover:border-fiji-cyan transition-colors"
-          >
-            <h2 className="text-xl font-semibold mb-2">Interactive Map</h2>
-            <p className="text-slate-400 text-sm">
-              Explore infrastructure layers — boundaries, settlements, energy
-              grid, schools, health facilities, roads, telecom coverage, and
-              poverty data at tikina level.
-            </p>
-          </Link>
+        <Link
+          href="/map"
+          className="inline-block px-6 py-3 bg-fiji-cyan text-slate-900 font-semibold rounded-lg hover:bg-fiji-cyan/90 transition-colors"
+        >
+          Open Planning Tool
+        </Link>
 
-          <Link
-            href="/pricing"
-            className="block p-6 bg-slate-700/50 rounded-xl border border-slate-600 hover:border-fiji-cyan transition-colors"
-          >
-            <h2 className="text-xl font-semibold mb-2">
+        <div className="mt-12 grid md:grid-cols-2 gap-6">
+          <div className="p-5 bg-slate-700/50 rounded-xl border border-slate-600">
+            <h2 className="text-lg font-semibold mb-2">Infrastructure Map</h2>
+            <p className="text-slate-400 text-sm">
+              Toggle data layers — boundaries, settlements, energy grid,
+              schools, health facilities, roads, telecom coverage, and poverty
+              data at tikina level.
+            </p>
+          </div>
+          <div className="p-5 bg-slate-700/50 rounded-xl border border-slate-600">
+            <h2 className="text-lg font-semibold mb-2">
               Logistics &amp; Pricing
             </h2>
             <p className="text-slate-400 text-sm">
-              Estimate delivery and installation costs for SHS, mini-grids, and
-              grid extensions. Calculate road/sea distances and transport costs
-              to remote communities.
+              Select a community, choose an intervention (SHS, mini-grid, grid
+              extension), and get a cost estimate with road distance and
+              transport costs.
             </p>
-          </Link>
+          </div>
         </div>
 
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-4 text-center">

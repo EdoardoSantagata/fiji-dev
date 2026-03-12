@@ -13,7 +13,7 @@ export default function Legend() {
   const showRoads = visibility.roads;
 
   return (
-    <div className="absolute bottom-4 right-4 z-[1000] bg-white rounded-lg shadow-lg p-3 max-w-52 text-xs">
+    <div className="absolute bottom-4 left-4 z-[1000] bg-white rounded-lg shadow-lg p-3 max-w-52 text-xs">
       <div className="font-semibold text-slate-700 mb-2">Legend</div>
 
       {/* Active point/polygon layers */}
