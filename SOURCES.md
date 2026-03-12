@@ -18,7 +18,8 @@ Last fetched: 12 March 2026.
 | `energy/shs_communities.geojson` | 25 | 12 KB | Manual compilation (DoE, academic papers) |
 | `energy/fref_sites.geojson` | 4 | 4 KB | Manual compilation (FREF, UNDP) |
 | `energy/grid_lines.geojson` | 57 | 104 KB | OSM Overpass (power=line\|cable\|minor_line) |
-| `energy/power_plants.geojson` | 58 | 16 KB | OSM Overpass (power=plant\|generator) |
+| `energy/power_plants.geojson` | 56 | 16 KB | OSM Overpass (power=plant\|generator, excl. substations) |
+| `energy/substations.geojson` | 22 | 4 KB | OSM Overpass (power=substation) |
 | `infrastructure/roads.geojson` | 17,274 | 15 MB | OSM Overpass (highway=*) |
 | `infrastructure/schools.geojson` | 1,016 | 328 KB | VanuaGIS Basemap2024/MapServer/3 |
 | `infrastructure/health_facilities.geojson` | 215 | 60 KB | VanuaGIS MOH/MedicalZone/FeatureServer/1 |
@@ -113,9 +114,18 @@ Last fetched: 12 March 2026.
 
 ### Power Plants / Generators
 - **Source**: OpenStreetMap via Overpass API
-- **Query**: `power=plant` and `power=generator` nodes and ways
-- **Features returned**: 58 facilities
-- **Properties**: `name`, `power`, `generator_source` (solar, hydro, diesel, etc.), `generator_output`, `operator`
+- **Query**: `power=plant` and `power=generator` nodes and ways; entries with `power=substation` or "substation" in name are separated into substations.geojson
+- **Features returned**: 56 plants/generators (18 plants, 38 generators — mostly wind and solar)
+- **Properties**: `name`, `power`, `voltage`, `generator_source` (solar, hydro, diesel, etc.), `generator_output`, `operator`
+- **License**: ODbL
+- **See also**: OpenInfraMap (https://openinframap.org)
+- **Script**: `scripts/05_fetch_energy_grid.py`
+
+### Substations
+- **Source**: OpenStreetMap via Overpass API
+- **Query**: `power=substation` nodes and ways, plus any `power=plant` features with "substation" in name
+- **Features returned**: 22 substations
+- **Properties**: `name`, `power`, `voltage`, `operator`
 - **License**: ODbL
 - **Script**: `scripts/05_fetch_energy_grid.py`
 

@@ -12,12 +12,14 @@ export default function EnergyLayer() {
   const showFREF = useMapStore((s) => s.layerVisibility.frefSites);
   const showGrid = useMapStore((s) => s.layerVisibility.gridLines);
   const showPower = useMapStore((s) => s.layerVisibility.powerPlants);
+  const showSubs = useMapStore((s) => s.layerVisibility.substations);
   const selectFeature = useMapStore((s) => s.selectFeature);
 
   const [shs, setShs] = useState<FeatureCollection<Point> | null>(null);
   const [fref, setFref] = useState<FeatureCollection<Point> | null>(null);
   const [grid, setGrid] = useState<FeatureCollection | null>(null);
   const [power, setPower] = useState<FeatureCollection | null>(null);
+  const [subs, setSubs] = useState<FeatureCollection | null>(null);
 
   useEffect(() => {
     if (showSHS && !shs) {
@@ -54,6 +56,15 @@ export default function EnergyLayer() {
         .catch(() => {});
     }
   }, [showPower, power]);
+
+  useEffect(() => {
+    if (showSubs && !subs) {
+      fetch("/data/energy/substations.geojson")
+        .then((r) => r.json())
+        .then(setSubs)
+        .catch(() => {});
+    }
+  }, [showSubs, subs]);
 
   const gridStyle: PathOptions = {
     color: "#F59E0B",
@@ -97,6 +108,31 @@ export default function EnergyLayer() {
             );
             (layer as L.Path).on("click", () =>
               selectFeature(feature, "powerPlants")
+            );
+          }}
+        />
+      )}
+
+      {/* Substations */}
+      {showSubs && subs && (
+        <GeoJSON
+          key="substations"
+          data={subs}
+          pointToLayer={(feature, latlng) =>
+            L.circleMarker(latlng, {
+              radius: 6,
+              fillColor: "#92400E",
+              color: "#451A03",
+              weight: 2,
+              fillOpacity: 0.85,
+            })
+          }
+          onEachFeature={(feature: GeoJSON.Feature, layer: Layer) => {
+            (layer as L.Path).bindTooltip(
+              feature.properties?.name || "Substation"
+            );
+            (layer as L.Path).on("click", () =>
+              selectFeature(feature, "substations")
             );
           }}
         />

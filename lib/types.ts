@@ -11,6 +11,7 @@ export type LayerId =
   | "poverty"
   | "gridLines"
   | "powerPlants"
+  | "substations"
   | "shsCommunities"
   | "frefSites"
   | "roads"

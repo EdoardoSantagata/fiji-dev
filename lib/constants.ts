@@ -35,6 +35,7 @@ export const LAYERS: LayerConfig[] = [
   // Energy
   { id: "gridLines", label: "Grid Lines", group: "energy", dataUrl: "/data/energy/grid_lines.geojson", visible: false, color: "#F59E0B" },
   { id: "powerPlants", label: "Power Plants", group: "energy", dataUrl: "/data/energy/power_plants.geojson", visible: false, color: "#D97706" },
+  { id: "substations", label: "Substations", group: "energy", dataUrl: "/data/energy/substations.geojson", visible: false, color: "#92400E" },
   { id: "shsCommunities", label: "SHS Communities", group: "energy", dataUrl: "/data/energy/shs_communities.geojson", visible: true, color: "#FBBF24" },
   { id: "frefSites", label: "FREF Sites", group: "energy", dataUrl: "/data/energy/fref_sites.geojson", visible: true, color: "#F97316" },
   // Infrastructure

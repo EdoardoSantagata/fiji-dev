@@ -9,6 +9,7 @@ const LAYER_PATHS: Record<string, string> = {
   poverty: "demographics/poverty_tikina.geojson",
   grid_lines: "energy/grid_lines.geojson",
   power_plants: "energy/power_plants.geojson",
+  substations: "energy/substations.geojson",
   shs_communities: "energy/shs_communities.geojson",
   fref_sites: "energy/fref_sites.geojson",
   roads: "infrastructure/roads.geojson",
