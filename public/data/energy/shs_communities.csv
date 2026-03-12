@@ -1,0 +1,26 @@
+name,province,tikina,lat,lon,year_installed,num_systems,notes
+Vunivau,Bua,Lekutu,-16.83012,178.63449,2002,84,Phase II
+Nasuva Settlement,Bua,,-16.82,178.68,2002,56,
+Vusasivo,Cakaudrove,,-16.75,179.15,2002,42,
+Onelake Settlement,Cakaudrove,,-16.85,179.0,2002,10,
+Driti Village,,,-16.884747,178.72158,2003,,Solar refrigeration
+Naroi,Lau,Moala,-18.5603583,179.9348212,,170,Maintenance only
+Vunicagi Settlement,Macuata,Dreketi,-16.58,178.3,2005,,Part of 215 batch
+Boroboro Settlement,Bua,Lekutu,-16.82,178.6,2005,,Part of 215 batch
+Luvuluvu Settlement,Bua,Lekutu,-16.83,178.61,2005,,Part of 215 batch
+Nawaca Settlement,Bua,Lekutu,-16.9038173,178.6581905,2005,,Part of 215 batch
+Cavaga Village,Bua,Solevu,-16.99623,178.7856,2005,,Part of 215 batch
+Saolo Village,Bua,Wainunu,-16.87412,178.8582,2005,,Part of 215 batch
+Nakawakawa Village,Bua,Wainunu,-16.85956,178.86218,2005,,Part of 215 batch
+Daria Village,Bua,Wainunu,-16.87,178.85,2005,,Part of 215 batch
+Nadua Village,Bua,Wainunu,-17.7974988,177.408095,2005,,Part of 215 batch
+Nanuca Village,Cakaudrove,Savusavu,-16.78,179.33,2005,,Part of 215 batch
+Kadavu Region (aggregate),Kadavu,,-19.05,178.15,2002-2014,1078,Regional total across multiple villages
+Lomaiviti Region (aggregate),Lomaiviti,,-17.75,179.0,2002-2014,992,Regional total across multiple villages
+Yasawa Region (aggregate),Ba,Yasawa,-16.75,177.55,2002-2014,1640,Regional total across multiple villages
+Lau Region (aggregate),Lau,,-18.2,-179.0,2002-2014,421,Regional total across multiple villages
+Rotuma (aggregate),Rotuma,,-12.5,177.07,2002-2014,802,Regional total across multiple villages
+Viti Levu Interior (aggregate),Naitasiri,,-17.85,178.05,2002-2014,873,Regional total — rural interior villages
+Masi Village,Serua,,-18.17,177.95,,,"Micro-hydro project (flood damaged, repaired)"
+Korolevu Village,Nadroga/Navosa,,-18.2,177.7,,,Micro-hydro project (repaired)
+Nukuloa Village,Lomaiviti,Gau,-18.0,179.3,,,SHS monitoring data collected; detailed design planned

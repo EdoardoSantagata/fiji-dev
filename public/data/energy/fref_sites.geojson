@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.4613133,
+          -17.6122518
+        ]
+      },
+      "properties": {
+        "name": "Vio Island",
+        "island": "Vio",
+        "province": "",
+        "status": "Pilot",
+        "year": "2017",
+        "num_households": "47",
+        "notes": "FJD18/month tariff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.7932718,
+          -18.2168562
+        ]
+      },
+      "properties": {
+        "name": "Yadrana Village",
+        "island": "Lakeba Island",
+        "province": "Lau",
+        "status": "Phase 1",
+        "year": "2025",
+        "num_households": "",
+        "notes": "Part of 249 HH total"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.9168571,
+          -16.6429597
+        ]
+      },
+      "properties": {
+        "name": "Salia Village",
+        "island": "Kioa Island",
+        "province": "Cakaudrove",
+        "status": "Phase 1",
+        "year": "2025",
+        "num_households": "",
+        "notes": "Part of 249 HH total"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -179.5265049,
+          -17.2571997
+        ]
+      },
+      "properties": {
+        "name": "Yacata Village",
+        "island": "Yacata Island",
+        "province": "Lau",
+        "status": "Phase 1",
+        "year": "2025",
+        "num_households": "",
+        "notes": "Part of 249 HH total"
+      }
+    }
+  ]
+}

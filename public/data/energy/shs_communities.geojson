@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.63449,
+          -16.83012
+        ]
+      },
+      "properties": {
+        "name": "Vunivau",
+        "province": "Bua",
+        "tikina": "Lekutu",
+        "year_installed": "2002",
+        "num_systems": "84",
+        "notes": "Phase II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.68,
+          -16.82
+        ]
+      },
+      "properties": {
+        "name": "Nasuva Settlement",
+        "province": "Bua",
+        "tikina": "",
+        "year_installed": "2002",
+        "num_systems": "56",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.15,
+          -16.75
+        ]
+      },
+      "properties": {
+        "name": "Vusasivo",
+        "province": "Cakaudrove",
+        "tikina": "",
+        "year_installed": "2002",
+        "num_systems": "42",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.0,
+          -16.85
+        ]
+      },
+      "properties": {
+        "name": "Onelake Settlement",
+        "province": "Cakaudrove",
+        "tikina": "",
+        "year_installed": "2002",
+        "num_systems": "10",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.72158,
+          -16.884747
+        ]
+      },
+      "properties": {
+        "name": "Driti Village",
+        "province": "",
+        "tikina": "",
+        "year_installed": "2003",
+        "num_systems": "",
+        "notes": "Solar refrigeration"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.9348212,
+          -18.5603583
+        ]
+      },
+      "properties": {
+        "name": "Naroi",
+        "province": "Lau",
+        "tikina": "Moala",
+        "year_installed": "",
+        "num_systems": "170",
+        "notes": "Maintenance only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.3,
+          -16.58
+        ]
+      },
+      "properties": {
+        "name": "Vunicagi Settlement",
+        "province": "Macuata",
+        "tikina": "Dreketi",
+        "year_installed": "2005",
+        "num_systems": "",
+        "notes": "Part of 215 batch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.6,
+          -16.82
+        ]
+      },
+      "properties": {
+        "name": "Boroboro Settlement",
+        "province": "Bua",
+        "tikina": "Lekutu",
+        "year_installed": "2005",
+        "num_systems": "",
+        "notes": "Part of 215 batch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.61,
+          -16.83
+        ]
+      },
+      "properties": {
+        "name": "Luvuluvu Settlement",
+        "province": "Bua",
+        "tikina": "Lekutu",
+        "year_installed": "2005",
+        "num_systems": "",
+        "notes": "Part of 215 batch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.6581905,
+          -16.9038173
+        ]
+      },
+      "properties": {
+        "name": "Nawaca Settlement",
+        "province": "Bua",
+        "tikina": "Lekutu",
+        "year_installed": "2005",
+        "num_systems": "",
+        "notes": "Part of 215 batch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.7856,
+          -16.99623
+        ]
+      },
+      "properties": {
+        "name": "Cavaga Village",
+        "province": "Bua",
+        "tikina": "Solevu",
+        "year_installed": "2005",
+        "num_systems": "",
+        "notes": "Part of 215 batch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.8582,
+          -16.87412
+        ]
+      },
+      "properties": {
+        "name": "Saolo Village",
+        "province": "Bua",
+        "tikina": "Wainunu",
+        "year_installed": "2005",
+        "num_systems": "",
+        "notes": "Part of 215 batch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.86218,
+          -16.85956
+        ]
+      },
+      "properties": {
+        "name": "Nakawakawa Village",
+        "province": "Bua",
+        "tikina": "Wainunu",
+        "year_installed": "2005",
+        "num_systems": "",
+        "notes": "Part of 215 batch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.85,
+          -16.87
+        ]
+      },
+      "properties": {
+        "name": "Daria Village",
+        "province": "Bua",
+        "tikina": "Wainunu",
+        "year_installed": "2005",
+        "num_systems": "",
+        "notes": "Part of 215 batch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.408095,
+          -17.7974988
+        ]
+      },
+      "properties": {
+        "name": "Nadua Village",
+        "province": "Bua",
+        "tikina": "Wainunu",
+        "year_installed": "2005",
+        "num_systems": "",
+        "notes": "Part of 215 batch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.33,
+          -16.78
+        ]
+      },
+      "properties": {
+        "name": "Nanuca Village",
+        "province": "Cakaudrove",
+        "tikina": "Savusavu",
+        "year_installed": "2005",
+        "num_systems": "",
+        "notes": "Part of 215 batch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.15,
+          -19.05
+        ]
+      },
+      "properties": {
+        "name": "Kadavu Region (aggregate)",
+        "province": "Kadavu",
+        "tikina": "",
+        "year_installed": "2002-2014",
+        "num_systems": "1078",
+        "notes": "Regional total across multiple villages"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.0,
+          -17.75
+        ]
+      },
+      "properties": {
+        "name": "Lomaiviti Region (aggregate)",
+        "province": "Lomaiviti",
+        "tikina": "",
+        "year_installed": "2002-2014",
+        "num_systems": "992",
+        "notes": "Regional total across multiple villages"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.55,
+          -16.75
+        ]
+      },
+      "properties": {
+        "name": "Yasawa Region (aggregate)",
+        "province": "Ba",
+        "tikina": "Yasawa",
+        "year_installed": "2002-2014",
+        "num_systems": "1640",
+        "notes": "Regional total across multiple villages"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -179.0,
+          -18.2
+        ]
+      },
+      "properties": {
+        "name": "Lau Region (aggregate)",
+        "province": "Lau",
+        "tikina": "",
+        "year_installed": "2002-2014",
+        "num_systems": "421",
+        "notes": "Regional total across multiple villages"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.07,
+          -12.5
+        ]
+      },
+      "properties": {
+        "name": "Rotuma (aggregate)",
+        "province": "Rotuma",
+        "tikina": "",
+        "year_installed": "2002-2014",
+        "num_systems": "802",
+        "notes": "Regional total across multiple villages"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.05,
+          -17.85
+        ]
+      },
+      "properties": {
+        "name": "Viti Levu Interior (aggregate)",
+        "province": "Naitasiri",
+        "tikina": "",
+        "year_installed": "2002-2014",
+        "num_systems": "873",
+        "notes": "Regional total \u2014 rural interior villages"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.95,
+          -18.17
+        ]
+      },
+      "properties": {
+        "name": "Masi Village",
+        "province": "Serua",
+        "tikina": "",
+        "year_installed": "",
+        "num_systems": "",
+        "notes": "Micro-hydro project (flood damaged, repaired)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.7,
+          -18.2
+        ]
+      },
+      "properties": {
+        "name": "Korolevu Village",
+        "province": "Nadroga/Navosa",
+        "tikina": "",
+        "year_installed": "",
+        "num_systems": "",
+        "notes": "Micro-hydro project (repaired)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.3,
+          -18.0
+        ]
+      },
+      "properties": {
+        "name": "Nukuloa Village",
+        "province": "Lomaiviti",
+        "tikina": "Gau",
+        "year_installed": "",
+        "num_systems": "",
+        "notes": "SHS monitoring data collected; detailed design planned"
+      }
+    }
+  ]
+}

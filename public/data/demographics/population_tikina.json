@@ -1,0 +1,518 @@
+[
+  {
+    "code": "FJ20101",
+    "name": "Ba",
+    "province": "Ba",
+    "total": 39372
+  },
+  {
+    "code": "FJ20102",
+    "name": "Magodro",
+    "province": "Ba",
+    "total": 4806
+  },
+  {
+    "code": "FJ20103",
+    "name": "Nadi",
+    "province": "Ba",
+    "total": 59717
+  },
+  {
+    "code": "FJ20104",
+    "name": "Naviti",
+    "province": "Ba",
+    "total": 2910
+  },
+  {
+    "code": "FJ20105",
+    "name": "Nawaka",
+    "province": "Ba",
+    "total": 16121
+  },
+  {
+    "code": "FJ20106",
+    "name": "Tavua",
+    "province": "Ba",
+    "total": 23269
+  },
+  {
+    "code": "FJ20107",
+    "name": "Vuda",
+    "province": "Ba",
+    "total": 99264
+  },
+  {
+    "code": "FJ20108",
+    "name": "Yasawa",
+    "province": "Ba",
+    "total": 2226
+  },
+  {
+    "code": "FJ10201",
+    "name": "Bua",
+    "province": "Bua",
+    "total": 6153
+  },
+  {
+    "code": "FJ10202",
+    "name": "Vuya",
+    "province": "Bua",
+    "total": 4844
+  },
+  {
+    "code": "FJ10203",
+    "name": "Wainunu",
+    "province": "Bua",
+    "total": 4492
+  },
+  {
+    "code": "FJ10301",
+    "name": "Cakaudrove",
+    "province": "Cakaudrove",
+    "total": 14599
+  },
+  {
+    "code": "FJ10302",
+    "name": "Nasavusavu",
+    "province": "Cakaudrove",
+    "total": 12592
+  },
+  {
+    "code": "FJ10303",
+    "name": "Rabi",
+    "province": "Cakaudrove",
+    "total": 2334
+  },
+  {
+    "code": "FJ10304",
+    "name": "Saqani",
+    "province": "Cakaudrove",
+    "total": 2034
+  },
+  {
+    "code": "FJ10305",
+    "name": "Tunuloa",
+    "province": "Cakaudrove",
+    "total": 3843
+  },
+  {
+    "code": "FJ10306",
+    "name": "Vaturova",
+    "province": "Cakaudrove",
+    "total": 4196
+  },
+  {
+    "code": "FJ10307",
+    "name": "Wailevu",
+    "province": "Cakaudrove",
+    "total": 6363
+  },
+  {
+    "code": "FJ10308",
+    "name": "Wainikeli",
+    "province": "Cakaudrove",
+    "total": 4486
+  },
+  {
+    "code": "FJ30401",
+    "name": "Nabukelevu",
+    "province": "Kadavu",
+    "total": 2591
+  },
+  {
+    "code": "FJ30402",
+    "name": "Naceva",
+    "province": "Kadavu",
+    "total": 1766
+  },
+  {
+    "code": "FJ30403",
+    "name": "Nakasaleka",
+    "province": "Kadavu",
+    "total": 2479
+  },
+  {
+    "code": "FJ30404",
+    "name": "Tavuki",
+    "province": "Kadavu",
+    "total": 4033
+  },
+  {
+    "code": "FJ30501",
+    "name": "Cicia",
+    "province": "Lau",
+    "total": 1028
+  },
+  {
+    "code": "FJ30502",
+    "name": "Kabara",
+    "province": "Lau",
+    "total": 656
+  },
+  {
+    "code": "FJ30503",
+    "name": "Lakeba",
+    "province": "Lau",
+    "total": 1557
+  },
+  {
+    "code": "FJ30504",
+    "name": "Lomaloma",
+    "province": "Lau",
+    "total": 915
+  },
+  {
+    "code": "FJ30505",
+    "name": "Matuku",
+    "province": "Lau",
+    "total": 522
+  },
+  {
+    "code": "FJ30506",
+    "name": "Moala",
+    "province": "Lau",
+    "total": 1383
+  },
+  {
+    "code": "FJ30507",
+    "name": "Moce",
+    "province": "Lau",
+    "total": 428
+  },
+  {
+    "code": "FJ30508",
+    "name": "Mualevu",
+    "province": "Lau",
+    "total": 838
+  },
+  {
+    "code": "FJ30509",
+    "name": "Nayau",
+    "province": "Lau",
+    "total": 293
+  },
+  {
+    "code": "FJ30510",
+    "name": "Oneata",
+    "province": "Lau",
+    "total": 147
+  },
+  {
+    "code": "FJ30511",
+    "name": "Ono",
+    "province": "Lau",
+    "total": 524
+  },
+  {
+    "code": "FJ30512",
+    "name": "LauOther",
+    "province": "Lau",
+    "total": 292
+  },
+  {
+    "code": "FJ30513",
+    "name": "Totoya",
+    "province": "Lau",
+    "total": 624
+  },
+  {
+    "code": "FJ30514",
+    "name": "Vulaga",
+    "province": "Lau",
+    "total": 332
+  },
+  {
+    "code": "FJ30601",
+    "name": "Batiki",
+    "province": "Lomaiviti",
+    "total": 216
+  },
+  {
+    "code": "FJ30602",
+    "name": "Gau",
+    "province": "Lomaiviti",
+    "total": 2185
+  },
+  {
+    "code": "FJ30603",
+    "name": "Koro",
+    "province": "Lomaiviti",
+    "total": 2937
+  },
+  {
+    "code": "FJ30604",
+    "name": "Nairai",
+    "province": "Lomaiviti",
+    "total": 483
+  },
+  {
+    "code": "FJ30605",
+    "name": "LomaiOther",
+    "province": "Lomaiviti",
+    "total": 230
+  },
+  {
+    "code": "FJ30606",
+    "name": "Ovalau",
+    "province": "Lomaiviti",
+    "total": 9606
+  },
+  {
+    "code": "FJ10701",
+    "name": "Cikobia",
+    "province": "Macuata",
+    "total": 100
+  },
+  {
+    "code": "FJ10702",
+    "name": "Dogotoki",
+    "province": "Macuata",
+    "total": 2092
+  },
+  {
+    "code": "FJ10703",
+    "name": "Labasa",
+    "province": "Macuata",
+    "total": 49369
+  },
+  {
+    "code": "FJ10704",
+    "name": "Macuata",
+    "province": "Macuata",
+    "total": 9346
+  },
+  {
+    "code": "FJ10705",
+    "name": "Sasa",
+    "province": "Macuata",
+    "total": 5071
+  },
+  {
+    "code": "FJ20801",
+    "name": "Baravi",
+    "province": "Nadroga/Navosa",
+    "total": 8332
+  },
+  {
+    "code": "FJ20802",
+    "name": "Cuvu",
+    "province": "Nadroga/Navosa",
+    "total": 7264
+  },
+  {
+    "code": "FJ20803",
+    "name": "Malolo",
+    "province": "Nadroga/Navosa",
+    "total": 3211
+  },
+  {
+    "code": "FJ20804",
+    "name": "Malomalo",
+    "province": "Nadroga/Navosa",
+    "total": 15484
+  },
+  {
+    "code": "FJ20805",
+    "name": "Nasigatoka",
+    "province": "Nadroga/Navosa",
+    "total": 14338
+  },
+  {
+    "code": "FJ20806",
+    "name": "Navosa",
+    "province": "Nadroga/Navosa",
+    "total": 5106
+  },
+  {
+    "code": "FJ20807",
+    "name": "Ruwailevu",
+    "province": "Nadroga/Navosa",
+    "total": 4430
+  },
+  {
+    "code": "FJ20808",
+    "name": "Vatulele",
+    "province": "Nadroga/Navosa",
+    "total": 775
+  },
+  {
+    "code": "FJ40901",
+    "name": "Lomaivuna",
+    "province": "Naitasiri",
+    "total": 5414
+  },
+  {
+    "code": "FJ40902",
+    "name": "Matailobau",
+    "province": "Naitasiri",
+    "total": 4027
+  },
+  {
+    "code": "FJ40903",
+    "name": "Naitasiri",
+    "province": "Naitasiri",
+    "total": 160002
+  },
+  {
+    "code": "FJ40904",
+    "name": "Waimaro",
+    "province": "Naitasiri",
+    "total": 4101
+  },
+  {
+    "code": "FJ40905",
+    "name": "Wainimala",
+    "province": "Naitasiri",
+    "total": 4227
+  },
+  {
+    "code": "FJ41001",
+    "name": "Namosi",
+    "province": "Namosi",
+    "total": 1259
+  },
+  {
+    "code": "FJ41002",
+    "name": "Veivatuloa",
+    "province": "Namosi",
+    "total": 4358
+  },
+  {
+    "code": "FJ41003",
+    "name": "Wainikoroiluva",
+    "province": "Namosi",
+    "total": 2268
+  },
+  {
+    "code": "FJ21101",
+    "name": "Nakorotubu",
+    "province": "Ra",
+    "total": 4392
+  },
+  {
+    "code": "FJ21102",
+    "name": "Nalawa",
+    "province": "Ra",
+    "total": 4932
+  },
+  {
+    "code": "FJ21103",
+    "name": "Rakiraki",
+    "province": "Ra",
+    "total": 13908
+  },
+  {
+    "code": "FJ21104",
+    "name": "Saivou",
+    "province": "Ra",
+    "total": 7184
+  },
+  {
+    "code": "FJ41201",
+    "name": "Beqa",
+    "province": "Rewa",
+    "total": 1356
+  },
+  {
+    "code": "FJ41202",
+    "name": "Noco",
+    "province": "Rewa",
+    "total": 3687
+  },
+  {
+    "code": "FJ41203",
+    "name": "Rewa",
+    "province": "Rewa",
+    "total": 8943
+  },
+  {
+    "code": "FJ41204",
+    "name": "Suva",
+    "province": "Rewa",
+    "total": 94088
+  },
+  {
+    "code": "FJ31507",
+    "name": "Pepjei",
+    "province": "Rotuma",
+    "total": 119
+  },
+  {
+    "code": "FJ31501",
+    "name": "Itumuta",
+    "province": "Rotuma",
+    "total": 95
+  },
+  {
+    "code": "FJ31502",
+    "name": "Itutiu",
+    "province": "Rotuma",
+    "total": 660
+  },
+  {
+    "code": "FJ31503",
+    "name": "Juju",
+    "province": "Rotuma",
+    "total": 209
+  },
+  {
+    "code": "FJ31504",
+    "name": "Malhaha",
+    "province": "Rotuma",
+    "total": 233
+  },
+  {
+    "code": "FJ31505",
+    "name": "Noatau",
+    "province": "Rotuma",
+    "total": 125
+  },
+  {
+    "code": "FJ31506",
+    "name": "Oinafa",
+    "province": "Rotuma",
+    "total": 142
+  },
+  {
+    "code": "FJ41301",
+    "name": "Nuku",
+    "province": "Serua",
+    "total": 3644
+  },
+  {
+    "code": "FJ41302",
+    "name": "Serua",
+    "province": "Serua",
+    "total": 16366
+  },
+  {
+    "code": "FJ41401",
+    "name": "Bau",
+    "province": "Tailevu",
+    "total": 30965
+  },
+  {
+    "code": "FJ41402",
+    "name": "Nakelo",
+    "province": "Tailevu",
+    "total": 10930
+  },
+  {
+    "code": "FJ41403",
+    "name": "Sawakasa",
+    "province": "Tailevu",
+    "total": 8570
+  },
+  {
+    "code": "FJ41404",
+    "name": "Verata",
+    "province": "Tailevu",
+    "total": 10340
+  },
+  {
+    "code": "FJ41405",
+    "name": "Wainibuka",
+    "province": "Tailevu",
+    "total": 3739
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "code": "FJ201",
+    "name": "Ba",
+    "division": "Western",
+    "total": 247685
+  },
+  {
+    "code": "FJ102",
+    "name": "Bua",
+    "division": "Northern",
+    "total": 15489
+  },
+  {
+    "code": "FJ103",
+    "name": "Cakaudrove",
+    "division": "Northern",
+    "total": 50447
+  },
+  {
+    "code": "FJ304",
+    "name": "Kadavu",
+    "division": "Eastern",
+    "total": 10869
+  },
+  {
+    "code": "FJ305",
+    "name": "Lau",
+    "division": "Eastern",
+    "total": 9539
+  },
+  {
+    "code": "FJ306",
+    "name": "Lomaiviti",
+    "division": "Eastern",
+    "total": 15657
+  },
+  {
+    "code": "FJ107",
+    "name": "Macuata",
+    "division": "Northern",
+    "total": 65978
+  },
+  {
+    "code": "FJ208",
+    "name": "Nadroga/Navosa",
+    "division": "Western",
+    "total": 58940
+  },
+  {
+    "code": "FJ409",
+    "name": "Naitasiri",
+    "division": "Central",
+    "total": 177771
+  },
+  {
+    "code": "FJ410",
+    "name": "Namosi",
+    "division": "Central",
+    "total": 7885
+  },
+  {
+    "code": "FJ211",
+    "name": "Ra",
+    "division": "Western",
+    "total": 30416
+  },
+  {
+    "code": "FJ412",
+    "name": "Rewa",
+    "division": "Central",
+    "total": 108074
+  },
+  {
+    "code": "FJ315",
+    "name": "Rotuma",
+    "division": "Eastern",
+    "total": 1583
+  },
+  {
+    "code": "FJ413",
+    "name": "Serua",
+    "division": "Central",
+    "total": 20010
+  },
+  {
+    "code": "FJ414",
+    "name": "Tailevu",
+    "division": "Central",
+    "total": 64544
+  }
+]
