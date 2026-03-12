@@ -48,14 +48,17 @@ def main():
     # Add poverty rates based on province
     for feature in tikinas["features"]:
         props = feature.get("properties", {})
-        province = props.get("ADM2_EN", "").strip()
+        province = props.get("ADM2_NAME", "").strip()
 
-        # Try direct match, then strip whitespace variations
-        rate = PROVINCE_POVERTY_RATES.get(province)
+        # Normalize: replace underscores with slashes for matching
+        normalized = province.replace("_", "/")
+        rate = PROVINCE_POVERTY_RATES.get(normalized)
+        if rate is None:
+            rate = PROVINCE_POVERTY_RATES.get(province)
         if rate is None:
             # Try partial match
             for prov_name, prov_rate in PROVINCE_POVERTY_RATES.items():
-                if prov_name.lower() in province.lower() or province.lower() in prov_name.lower():
+                if prov_name.lower() in normalized.lower() or normalized.lower() in prov_name.lower():
                     rate = prov_rate
                     break
 

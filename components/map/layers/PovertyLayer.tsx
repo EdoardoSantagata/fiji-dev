@@ -43,7 +43,7 @@ export default function PovertyLayer() {
   };
 
   const onEach = (feature: GeoJSON.Feature, layer: Layer) => {
-    const name = feature.properties?.ADM3_EN || "Unknown";
+    const name = feature.properties?.ADM3_NAME || "Unknown";
     const rate = feature.properties?.poverty_rate;
     (layer as L.Path).bindTooltip(
       `${name}: ${rate != null ? rate.toFixed(1) + "%" : "N/A"}`

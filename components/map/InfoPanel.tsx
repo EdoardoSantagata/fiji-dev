@@ -15,7 +15,7 @@ export default function InfoPanel() {
     <div className="border-t border-slate-200 p-4">
       <div className="flex items-center justify-between mb-3">
         <h3 className="font-semibold text-sm text-slate-800">
-          {props.name || props.ADM2_EN || props.ADM3_EN || "Feature Details"}
+          {props.name || props.ADM2_NAME || props.ADM3_NAME || "Feature Details"}
         </h3>
         <button
           onClick={() => selectFeature(null)}

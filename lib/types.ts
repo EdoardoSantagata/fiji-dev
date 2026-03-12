@@ -37,11 +37,11 @@ export interface SettlementProperties {
 }
 
 export interface BoundaryProperties {
-  ADM2_EN?: string;
-  ADM3_EN?: string;
+  ADM2_NAME?: string;
+  ADM3_NAME?: string;
   ADM2_PCODE?: string;
   ADM3_PCODE?: string;
-  ADM1_EN?: string;
+  ADM1_NAME?: string;
 }
 
 export interface SHSProperties {

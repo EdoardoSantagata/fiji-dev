@@ -49,13 +49,13 @@ export default function BoundaryLayer() {
   };
 
   const onEachProvince = (feature: GeoJSON.Feature, layer: Layer) => {
-    const name = feature.properties?.ADM2_EN || "Unknown";
+    const name = feature.properties?.ADM2_NAME || "Unknown";
     (layer as L.Path).bindTooltip(name, { sticky: true });
     (layer as L.Path).on("click", () => selectFeature(feature, "provinces"));
   };
 
   const onEachTikina = (feature: GeoJSON.Feature, layer: Layer) => {
-    const name = feature.properties?.ADM3_EN || "Unknown";
+    const name = feature.properties?.ADM3_NAME || "Unknown";
     (layer as L.Path).bindTooltip(name, { sticky: true });
     (layer as L.Path).on("click", () => selectFeature(feature, "tikinas"));
   };
